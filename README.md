@@ -52,6 +52,8 @@ Replace `N` with the actual TCP stream index observed in Wireshark. This helps i
 2. SYN-ACK — Server responds.
 3. ACK — Client acknowledges the response.
 
+![DNS Analysis](dns-analysis.png)
+
 ## Learning Outcomes
 - Learned basic DNS packet inspection.
 - Practiced TCP display filters.
