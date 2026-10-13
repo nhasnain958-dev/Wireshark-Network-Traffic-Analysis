@@ -53,7 +53,16 @@ Replace `N` with the actual TCP stream index observed in Wireshark. This helps i
 3. ACK — Client acknowledges the response.
 ## Wireshark Screenshots
 
+## Wireshark Screenshots
 
+### 1. DNS Traffic Analysis
+![DNS Analysis](dns.png)
+
+### 2. TCP Flags Analysis
+![TCP Flags](tcp%20flags.png)
+
+### 3. TCP Stream Analysis
+![TCP Stream](tcp%20stream.png)
 ## Learning Outcomes
 - Learned basic DNS packet inspection.
 - Practiced TCP display filters.
