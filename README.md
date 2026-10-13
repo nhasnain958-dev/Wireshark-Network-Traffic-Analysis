@@ -58,8 +58,7 @@ Replace `N` with the actual TCP stream index observed in Wireshark. This helps i
 ### 1. DNS Traffic Analysis
 ![DNS Analysis](dns.png)
 
-### 2. TCP Flags Analysis
-![TCP Flags](tcp%20flags.png)
+![TCP Flags](<tcp flags.png>)
 
 ### 3. TCP Stream Analysis
 ![TCP Stream](tcp%20stream.png)
